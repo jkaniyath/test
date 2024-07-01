@@ -24,7 +24,7 @@
     Go to the folder where the Terraform file is located and type the following commands. All commands and their results are shown in the following screenshots.
 
     1. To initializes a Terraform working directory.
-    ![init command](init.png)
+    ![init command](https://private-user-images.githubusercontent.com/165160551/344591540-3a5f7d63-c461-4053-ba5a-f09d1061636a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4MjEwOTcsIm5iZiI6MTcxOTgyMDc5NywicGF0aCI6Ii8xNjUxNjA1NTEvMzQ0NTkxNTQwLTNhNWY3ZDYzLWM0NjEtNDA1My1iYTVhLWYwOWQxMDYxNjM2YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMVQwNzU5NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MzA3OWQzNDE2ZDlhNTcwZDMzNGRiYWVhOTVlZDAzN2JjODg1MmUwOWM1YjMwZGZlZTIxNDFkYTUyNTBmNTM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M8bkJR5mT3DTRGqLHlJF_DM39xk5leXclC19jXu94MQ)
     2. To create an execution plan, showing what actions Terraform will take to achieve the desired state described in the configuration files.
     ![plan command](plan.png)
     ![plan command result](plan-result.png)
